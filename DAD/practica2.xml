@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensajes>
+    <mensaje type="1">
+        <remite>
+            <nombre>Ainhoa Acosta</nombre>
+            <email>ainhoaacosta2002@gmail.com</email>
+        </remite>
+        <destinatario>
+            <nombre>Victor Ramirez</nombre>
+            <email>victorramirez2003@gmail.com</email>
+        </destinatario>
+        <asunto>Tareas de DAD</asunto>
+        <texto>
+            <parrafo>Te paso todo lo que hemos hecho en DAD</parrafo>
+        </texto>
+    </mensaje>
+    <mensaje type="2">
+        <remite>
+            <nombre>Victor Ramirez</nombre>
+            <email>victorramirez2003@gmail.com</email>
+        </remite>
+        <destinatario>
+            <nombre>Ainhoa Acosta</nombre>
+            <email>ainhoaacosta2002@gmail.com</email>
+        </destinatario>
+        <asunto>Tengo una duda</asunto>
+        <texto>
+            <parrafo>No entiendo la actividad 2</parrafo>
+        </texto>
+    </mensaje>
+    <mensaje type="3">
+        <remite>
+            <nombre>Victor Ramirez</nombre>
+            <email>victorramirez2003@gmail.com</email>
+        </remite>
+        <destinatario>
+            <nombre>Ainhoa Acosta</nombre>
+            <email>ainhoaacosta2002@gmail.com</email>
+        </destinatario>
+        <asunto>Contestacion</asunto>
+        <texto>
+            <parrafo>Pues mirate los apuntos de LND del año pasado</parrafo>
+        </texto>
+    </mensaje>
+</mensajes>

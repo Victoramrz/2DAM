@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciudades [
+    <!ELEMENT ciudades (ciudad+)>
+    <!ELEMENT ciudad (nombre , capital*)><!-- Se puede poner tambien capital? pero en la w3school sale capital*-->
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT capital EMPTY>
+]>
+<ciudades>
+    <ciudad><nombre>Buenos Aires</nombre><capital/></ciudad>
+    <ciudad><nombre>Liverpool</nombre></ciudad>
+    <ciudad><nombre>Osaka</nombre></ciudad>
+    <ciudad><nombre>0slo</nombre><capital/></ciudad>
+</ciudades>

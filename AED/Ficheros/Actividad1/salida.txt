@@ -1,0 +1,7 @@
+SSG	Sistemas de gestión empresarial
+AED	Acceso a datos
+DAD	Desarrollo de interfaces
+EMR	Empresa e iniciativa emprendedora
+PGV	Programación de servicios y procesos
+PGL	Programación multimedia y dispositivos móviles
+FCT	Formación en centros de trabajo

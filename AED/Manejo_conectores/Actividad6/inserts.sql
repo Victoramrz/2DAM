@@ -1,0 +1,17 @@
+DELETE FROM product
+DELETE FROM proovedor
+INSERT Into proovedor values ('pv01','Wagyu Retamar','C. Antonio Machado, 11','925671644',1200)
+INSERT Into proovedor values ('pv02','Paco SLU','C. Unamuno, 7','986154732',200)
+INSERT Into proovedor values ('pv03','Bosch','Av. Canaria , 69','928456394',5000)
+INSERT Into proovedor values ('pv04','Samsung','C. Victor Manuel, 13', '928654713',2500)
+INSERT Into proovedor values ('pv05','Corte Ingles','Av. San Lorenzo, 2','928569347',1250)
+INSERT Into proovedor values ('pv06','Jiva SL','C.C Terrazas, 24','928651394',4000)
+INSERT Into proovedor values ('pv07','Balay','C. Felipe VI, 2','928775566',0)
+INSERT INTO product values('pd01','Carne de Waynu', 2100,25,'pv01')
+INSERT INTO product values('pd02','Caviar Albino', 1800,5,'pv02')
+INSERT INTO product values('pd03','Cookit',1400,12,'pv03')
+INSERT INTO product values('pd04','Ordenador',3500,3,'pv04')
+INSERT INTO product values('pd05','Freidora de Aire',1800,25,'pv05')
+INSERT INTO product values('pd06','Cuberteria',1200,10,'pv06')
+INSERT INTO product values('pd07','Vitro cerramica',9999,50,'pv07')
+INSERT INTO product values('pd08','VitroClen',150,1,'pv07')

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pedido>
+    <Nombre>Juan Delgado Martínez</Nombre>
+    <cesta>Bicicleta A2023</cesta>
+    <calle> Barco 4, tercer piso, letra A</calle>
+    <dia>19-5-2000</dia>
+</Pedido>
